@@ -1,0 +1,35 @@
+body {
+    display: block;
+    margin: 8px;
+    background-color: rgb(252, 237, 189);
+}h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    background-color: rgb(243, 185, 97);
+    margin-top: 0px;
+    font-size: 25px;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: rgb(123, 205, 238);
+    font-size: 34px;
+}dt1{
+    color: rgb(123, 205, 238);
+}dt2{
+    color: rgb(123, 205, 238);
+}dt3{
+    color: rgb(123, 205, 238);
+}dt4{
+    color: rgb(58, 93, 105);
+}
